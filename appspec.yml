@@ -3,4 +3,8 @@ version: 0.0
 os: linux
 files:
 - source: \index.html
-destination: \home\ubuntu\build\index.html
+destination: \home\ubuntu\build\
+- source: \appspec.yml
+destination: \home\ubuntu\build\
+- source: \readme.md
+destination: \home\ubuntu\build\
