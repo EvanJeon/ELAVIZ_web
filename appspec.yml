@@ -1,0 +1,10 @@
+﻿#602
+version: 0.0
+os: linux
+files:
+  - source: index.html
+    destination: \var\www\html\
+  - source: appspec.yml
+    destination: \var\www\html\
+  - source: readme.md
+    destination: \var\www\html\
