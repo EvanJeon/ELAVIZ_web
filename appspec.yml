@@ -2,8 +2,8 @@
 version: 0.0
 os: linux
 files:
-  # - source: index.html
-  #   destination: \var\www\html\
+   - source: index.html
+     destination: \var\www\html\
   # - source: appspec.yml
   #   destination: \var\www\html\
   # - source: readme.md
