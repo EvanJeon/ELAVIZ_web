@@ -29,4 +29,5 @@ artifacts:
 #    - app.js
     - appspec.yml
     - build/libs/*.jar
+    - index.html
   discard-paths: yes
