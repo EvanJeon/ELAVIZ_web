@@ -2,10 +2,6 @@
 version: 0.0
 os: linux
 files:
-  # - source: appspec.yml
-  #   destination: \var\www\html\
-  # - source: readme.md
-  #   destination: \var\www\html\
     - source: /
       destination: /home/ubuntu/build/
     - source: /index.html
