@@ -8,8 +8,8 @@ files:
       destination: /var/www/html/  
     # - source: /index.html
     #   destination: /var/www/html/index.html
-    - source: /elaviz_css.css
-      destination: /var/www/html/elaviz_css.css
+    #- source: /elaviz_css.css
+    #  destination: /var/www/html/elaviz_css.css
 
 permissions:
   - object: /
