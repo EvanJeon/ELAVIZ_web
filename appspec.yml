@@ -12,3 +12,7 @@ permissions:
     pattern: "**"
     owner: ubuntu
     group: ubuntu
+
+hooks:
+  BeforeInstall:
+    - location: /home/ubuntu/scripts/beforeInstall.bash
