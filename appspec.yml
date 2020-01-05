@@ -7,6 +7,8 @@ files:
       destination: /home/ubuntu/build/
     - source: /index.html
       destination: /var/www/html/index.html
+    - source: /elaviz_css.css
+    destination: /var/www/html/elaviz_css.css
 
 permissions:
   - object: /
