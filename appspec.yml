@@ -15,4 +15,4 @@ permissions:
 
 hooks:
   BeforeInstall:
-    - location: /home/ubuntu/scripts/beforeInstall.bash
+    - location: ../../../../../../home/ubuntu/scripts/beforeInstall.bash
