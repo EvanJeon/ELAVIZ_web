@@ -30,4 +30,5 @@ artifacts:
     - appspec.yml
     - build/libs/*.jar
     - index.html
+    - elaviz_css.css
   discard-paths: yes
