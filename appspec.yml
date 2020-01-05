@@ -1,14 +1,15 @@
 ﻿#602
-
 version: 0.0
 os: linux
 files:
     - source: /
       destination: /home/ubuntu/build/
-    - source: /index.html
-      destination: /var/www/html/index.html
-    - source: /elaviz_css.css
-    destination: /var/www/html/elaviz_css.css
+    - source: /
+      destination: /var/www/html/  
+    # - source: /index.html
+    #   destination: /var/www/html/index.html
+    # - source: /elaviz_css.css
+    #   destination: /var/www/html/elaviz_css.css
 
 permissions:
   - object: /
