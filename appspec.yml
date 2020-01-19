@@ -4,8 +4,8 @@ os: linux
 files:
     - source: /
       destination: /home/ubuntu/build/
-    - source: /
-      destination: /var/www/html/
+    - source: /index.html
+      destination: /var/www/html/index.html
 
 permissions:
   - object: /
